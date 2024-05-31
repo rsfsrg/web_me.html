@@ -1,0 +1,423 @@
+
+        body{
+          background-image: 
+          linear-gradient(120deg,rgb(45, 100, 68),rgb(69, 119, 78),rgb(172, 220, 152))
+          }
+        .sec{
+              background-color: white;
+              width: 20%;
+              height: 70%;
+              position: fixed;
+              border-radius: 8px;
+              margin-left:7% ;
+              margin-top:8%;
+         
+        }
+        .nav{
+            background-color: rgb(255, 255, 255);
+            width: 7%;
+            height: 50%;
+            position:fixed;
+            border-radius: 8px;
+            margin-left: 81%;
+            margin-top:8%;
+            }
+        .info{
+            position: absolute;
+            background-color: rgb(255, 255, 255);
+            width: 50%;
+            height: 1000px;
+            border-radius: 8px;
+            margin-left: 29%;
+            margin-top:8%;
+        }
+        .img{
+            position:fixed;
+    
+            background-color: rgb(87, 113, 154);
+            height: 150px;
+            width: 150px;
+            border-radius: 8px;
+            margin-top: 2%;
+            margin-left: 11%;
+            background-image: url(WhatsApp\ Image\ 2024-05-30\ at\ 23.40.32_5a3d7a18.jpg);
+            background-size:cover;
+        }
+        .img img{
+            border-radius: 25px;
+        }
+        .about{
+            position: absolute;
+            width: 50px;
+            height: 50px;
+            background-color: rgb(255, 255, 255);
+            border-radius: 10px;
+            margin-left:19%;
+            margin-top:9%;
+            text-align: bottom;
+            background-image: url(account.png);
+            background-size: cover;
+            border-width: 2px;
+            border-color:white ;
+        }
+        .resume{
+            position: absolute;
+            width: 50px;
+            height: 50px;
+            background-color: rgb(255, 255, 255);
+            border-radius: 10px;
+            margin-left:19%;
+            margin-top: 56px;
+            background-image: url(resume.png);
+            background-size: cover;
+            border-color:white ;
+        }
+        .works{
+            position: absolute;
+            width: 50px;
+            height: 50px;
+            background-color: rgb(255, 255, 255);
+            border-radius: 10px;
+            margin-left:19%;
+            margin-top:112px;
+            background-image: url(portfolio.png);
+            background-size: cover;
+            border-width: 2px;
+            border-color:white ;
+        }
+        .blog{
+            position: absolute;
+            width: 50px;
+            height: 50px;
+            background-color: rgb(255, 255, 255);
+            border-radius: 10px;
+            margin-left:19%;
+            margin-top:167px;
+            background-image: url(blogger.png);
+            border-width: 2px;
+            background-size: cover;
+            border-color:white ;
+        }
+        .contact{
+            position: absolute;
+            width: 50px;
+            height: 50px;
+            background-color: rgb(255, 255, 255);
+            border-radius: 10px;
+            margin-left:19%;
+            margin-top: 224px;
+            background-image: url(contact.png);
+            background-size:cover;
+            border-width: 2px;
+            border-color:white ;
+        }
+        .kjh{
+
+            position: absolute;
+            margin-top: 14px;
+            margin-left: 16px;
+            
+        }
+        
+
+        .about p{
+            text-align: bottom;
+            position:absolute;
+            margin-top:9px;
+            font-size: 12px;
+
+        }
+        .profile h2{
+            text-align: center;
+        }
+        .profile{
+            margin-top: 32%;
+        }
+        .disg{
+
+            text-align: center;
+            background-color: rgb(158, 233, 168);
+            width: 130px;
+            height:22px;
+            margin-left: 65px;
+            margin-top: -5%;
+            border-radius: 5px;
+           
+        }
+        .facebook{
+            width: 30px;
+            height: 30px;
+            background-size:cover;
+            background-image: url(facebook.png);
+            position: absolute;
+            margin-left: 47px;
+            
+        }
+        .twitter{
+            width: 30px;
+            height: 30px;
+            background-size:cover;
+            background-image: url(twitter.png);
+            position: absolute;
+            margin-left: 87px;
+            
+
+        }
+        .instagram{
+            width: 30px;
+            height: 30px;
+            background-size:cover;
+            background-image: url(instagram.png);
+            position: absolute;
+            margin-left: 125px;
+
+        }
+        .linkedIN{
+            width: 30px;
+            height: 30px;
+            background-size:cover;
+            background-image: url(linkedin.png);
+            position: absolute;
+
+            margin-left: 164px;
+
+        }
+        .me{
+             background-color:  rgb(172, 252, 189);
+             height:170px;
+             width: 220px;
+             margin-left: 12px;
+             margin-top: 60px;
+             border-radius: 8px;
+             position: fixed;
+        }
+        .phone{
+            position: absolute;
+            width: 30px;
+            height: 30px;
+            background-image: url(smartphone-call.png);
+            background-size: cover;
+            margin-top: 4px;
+        }
+        .email{
+            position: absolute;
+            width: 30px;
+            height: 30px;
+            background-image: url(communication.png);
+            background-size: cover;
+            margin-top: 45px;
+        }
+        .location{
+            
+            position: absolute;
+            background-image: url(placeholder.png);
+            background-size: cover;
+            width:30px;
+            height:30px;
+            margin-top:86px;
+        }
+        .birthday{
+            position:absolute;
+            background-image:url(calendar.png);
+            background-size:cover;
+            width:30px;
+            height:30px;
+            margin-top: 120px;
+        }
+        .ph{
+            position: absolute;
+            margin-left: 40px;
+            font-size: 14px;
+        }
+        .em{
+            position: absolute;
+            margin-left: 40px;
+            margin-top: 55px;
+            font-size: 14px;
+        }
+        .lo{
+            position: absolute;
+            margin-left: 40px;
+            margin-top: 95px;
+            font-size: 14px;
+        }
+        .bi{
+            position: absolute;
+            margin-left: 40px;
+            margin-top: 130px;
+            font-size: 14px;
+        }
+        .ab{
+            position: absolute;
+            font-size: 30px;
+            margin-left: 28px ;
+            margin-top: 40px;
+        }
+        .abside{
+            position: absolute;
+            background-color: rgb(133, 219, 182);
+            margin-top:59px;
+            margin-left: 110px;
+            width: 160px;
+            height: 2px;
+        }
+        .my{
+            position: absolute;
+            margin-top: 110px;
+            margin-left: 30px;
+            color: rgb(88, 88, 88);
+            margin-right: 30px;
+        }
+        .mk{
+           
+            margin-top: 180px;
+            margin-left: 30px;
+            color: rgb(88, 88, 88) ;
+            margin-right: 30px;
+        }
+        .what_i_do{
+            position:absolute;
+            margin-top: 50px;
+            margin-left: 30px;
+            font-size: 22px;
+        }
+
+        .web_dev{
+            background-color: rgb(201, 247, 205);
+            height: 180px;
+            width: 260px;
+            position: absolute;
+            border-radius: 10px;
+            margin-top: 106px;
+            margin-left: 30px;
+        }
+        .swim{
+            background-color: rgb(190, 228, 168);
+            height: 180px;
+            width: 260px;
+            position: absolute;
+            border-radius: 10px;
+            margin-top: 106px;
+            margin-left: 52%;
+        }
+        .search{
+            background-color:rgb(141, 185, 126);
+            height: 180px;
+            width: 260px;
+            position: absolute;
+            border-radius: 10px;
+            margin-top: 50%;
+            margin-left: 30px;
+        }
+        .read{
+            background-color:rgb(201, 247, 205);
+            height: 180px;
+            width: 260px;
+            position: absolute;
+            border-radius: 10px;
+            margin-top: 50%;
+            margin-left: 52%;
+        }
+        
+        .b{
+            height: 50px;
+            width: 50px;
+            background-image: url(html.png);
+            background-size: cover;
+        }
+        .c{
+            height: 50px;
+            width: 50px;
+            background-image: url(css.png);
+            background-size: cover;
+        }
+        .j{
+            height: 50px;
+            width: 50px;
+            background-image: url(java-logo.png);
+            background-size: cover;
+        }
+        .html{
+            font-size: 18px;
+            position: absolute;
+            margin-left:30px ;
+           margin-top: -10px;
+           width: 190px;
+        }
+        .css{
+            font-size: 18px;
+            position: absolute;
+            margin-left:33px ;
+           margin-top: -3px;
+           width: 190px;
+        }
+        .java{
+            font-size: 18px;
+            position: absolute;
+            margin-left:30px ;
+           margin-top: -3px;
+           width: 190px;
+        }
+        .git{
+            height: 50px;
+            width: 50px;
+            background-image: url(github-sign.png);
+            background-size: cover;
+            margin-top: 15px;
+            margin-left: 7px;
+            position: absolute;
+        }
+        .you{
+            height: 50px;
+            width: 50px;
+            background-image: url(youtube.png);
+            background-size: cover;
+            margin-top: 80px;
+            margin-left: 7px;
+            position: absolute;
+        }
+        .lin{
+            margin-left: 80px;
+            margin-top: 40px;
+            position: absolute;
+            color: black;
+        }
+        .lin a{
+            color: black;
+        }
+        .tube{
+            margin-left: 80px;
+            margin-top: 100px;
+            position: absolute;
+            color: black;
+        }
+        .tube a{
+            color: black;
+        }
+        .button{
+            
+            margin-top: 100%;
+            margin-left: 0;
+            background-color: rgb(117, 218, 157);
+            border: none;
+            
+            text-align: center;
+            display: inline-block;
+            width: 610px;
+            height: 100px;
+            border-radius: 10px;
+
+        }
+        .file{
+            width: 40px;
+            height: 40px;
+            margin-left: 35%;
+            margin-top: -6px;
+            background-image: url(file.png) ;
+            background-size: cover;
+            position: absolute;
+            
+
+        }
+    
+    
